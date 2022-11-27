@@ -29,6 +29,7 @@
 ### 1.2. phase 2
 + 查看`touch2`代码如下：
 ```c
+
 void touch2(unsigned val)
 {
     vlevel = 2; /* Part of validation protocol */
